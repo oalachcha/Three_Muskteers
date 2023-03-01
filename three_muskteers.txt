@@ -1,4 +1,4 @@
-lion
+lion -mingda
 tiger
 leopard
 turtle
