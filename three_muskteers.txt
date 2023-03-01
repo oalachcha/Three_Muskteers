@@ -1,5 +1,5 @@
 lion -mingda
 lion contributorA
-tiger
-leopard
-turtle
+tiger contirbutorA is the one true contributor 
+leopard contirbutorA is the best of them all
+turtle Nobody can be better than me 
